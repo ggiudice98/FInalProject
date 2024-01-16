@@ -30,12 +30,14 @@
 
 5. **Deep Learning model**  :  
    For our deep learaning model we first created a standard scaler instance and we fit and scaled our data. We then defined our model and run it.
+
+   
    We received an accuracy score of 99%    
           ![Alt text](image-1.png)
           ![Alt text](image-2.png)
           ![Alt text](image-4.png)
 
-6. **Model prediction**  :  
+7. **Model prediction**  :  
           ![Alt text](image-5.png)
           ![Alt text](image-6.png)
           ![Alt text](image-7.png)
