@@ -21,6 +21,7 @@ The age of information has allowed for the mass proliferation of information thr
 5. **Deep Learning model**
    For our deep learaning model we first created a standard scaler instance and we fit and scaled our data. We then defined our model and ran it.
    We received an accuracy score of 99%
+   ![Alt text](image-2.png)
    ![Alt text](image-1.png)
 
   
