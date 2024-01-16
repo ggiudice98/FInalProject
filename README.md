@@ -44,7 +44,5 @@
 
 # Sources Used:
    For data cleaning : https://www.kaggle.com/code/nityam07/fakenews-detection-using-ml-and-dl
-
-   
    Carleton Bootcamp Activities
 
